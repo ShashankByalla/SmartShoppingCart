@@ -1,0 +1,8 @@
+Flask==2.1.1
+Flask-Cors==3.0.10
+SQLAlchemy==1.4.31
+Werkzeug==2.0.3  # specify an earlier version
+Jinja2>=3.0
+itsdangerous>=2.0
+click>=8.0
+Six
